@@ -1,3 +1,6 @@
 [submodule ".config/tmux/plugins/tmux-colors-solarized"]
 	path = .config/tmux/plugins/tmux-colors-solarized
 	url = https://github.com/seebi/tmux-colors-solarized
+[submodule "tmux/plugins/tpm"]
+	path = tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
